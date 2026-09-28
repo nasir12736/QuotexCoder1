@@ -9,10 +9,10 @@
   },
   "licenses": {
     "QXC": {
-      "name": "Ali Khan",
-      "device_id": "dev_3497bd4d67189512e2adabcc3a958ade,
-      "status": "unused",
-      "expires_at": null
+  "name": "Test User",
+  "device_id": "dev_3497bd4d67189512e2adabcc3a958ade",    ← Yahan paste karo
+  "status": "active",                                       ← active karo
+  "expires_at": null
     },
     "QXC-TEST-1234-5678": {
       "name": "Test User",
