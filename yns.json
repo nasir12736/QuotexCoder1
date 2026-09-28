@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "whatsapp_active": false,
+  "floating_text": "",
+  "floating_text_active": false,
+  "blocked_uids": [],
+  "blocked_devices": [],
+  
+  "license_system": {
+    "enabled": true
+  },
+  
+  "licenses": {
+    "QXC-ALI-2024-A1B2": {
+      "name": "Ali Khan",
+      "device_id": null,
+      "status": "unused",
+      "expires_at": null
+    },
+    "QXC-VIP-2024-X9Y8": {
+      "name": "Ahmed",
+      "device_id": null,
+      "status": "unused",
+      "expires_at": null
+    }
+  }
+}
