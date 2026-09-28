@@ -4,22 +4,21 @@
   "floating_text": "",
   "floating_text_active": false,
   "blocked_devices": [],
-  
   "license_system": {
     "enabled": true
   },
-  
   "licenses": {
-    "QXC": {
+    "QXC-ALI-2024-A1B2": {
       "name": "Ali Khan",
       "device_id": null,
       "status": "unused",
       "expires_at": null
     },
-    "QXC-VIP-2024-X9Y8": {
-      "name": "Ahmed",
+    "QXC-TEST-1234-5678": {
+      "name": "Test User",
       "device_id": null,
-      "status": "unused"
+      "status": "unused",
+      "expires_at": null
     }
   }
 }
